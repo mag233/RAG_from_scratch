@@ -10,3 +10,9 @@ Course link: [https://www.deeplearning.ai/courses/retrieval-augmented-generation
 
 ## Happy Learning!
 <img src="./resource/coder.png" alt="Happy Learning" width="600">
+
+## References
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Deeplearning.ai RAG Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
+- [Python Documentation](https://docs.python.org/3/)

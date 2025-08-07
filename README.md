@@ -16,3 +16,4 @@ Course link: [https://www.deeplearning.ai/courses/retrieval-augmented-generation
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Deeplearning.ai RAG Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
 - [Python Documentation](https://docs.python.org/3/)
+- [joblib](https://joblib.readthedocs.io/en/latest/)

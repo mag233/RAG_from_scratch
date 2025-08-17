@@ -113,3 +113,7 @@ dmypy.json
 *.key
 *.pem
 config/secrets.json
+
+# Project data and references (do not commit large/reference materials)
+resource/reference/
+resource/reference/**

@@ -17,3 +17,13 @@ Course link: [https://www.deeplearning.ai/courses/retrieval-augmented-generation
 - [Deeplearning.ai RAG Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
 - [Python Documentation](https://docs.python.org/3/)
 - [joblib](https://joblib.readthedocs.io/en/latest/)
+
+## Contributing
+Contributions are welcome.
+
+- Open an issue for bugs or suggestions.
+- Fork the repo and create a feature branch.
+- Keep changes small and focused.
+- Add brief notes in the PR describing the change and why it helps.
+
+Thank you for helping improve these notes.

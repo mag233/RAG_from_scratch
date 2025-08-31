@@ -8,7 +8,7 @@ Course link: [https://www.deeplearning.ai/courses/retrieval-augmented-generation
 
 **Copyright Note:** The content in this repository is for personal study and educational purposes. The course materials (mainly slides screenshots) from deeplearning.ai are their intellectual property. Please refer to their website for their copyright policies.
 
-## Happy Learning!
+## Happy Learning! (and yes GPT drew the following pic:(
 <img src="./resource/coder.png" alt="Happy Learning" width="600">
 
 ## References

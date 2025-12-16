@@ -10,6 +10,8 @@ Codespace没有GPU...感觉要完。
 
 ……转到阿里云，还是老问题，缺依赖，比codespace缺的少一点而已。
 
+### 遇到下一个bug：
+
 '''File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 552, in _run_script
     exec(code, module.__dict__)
 File "/mnt/workspace/AICamp_yuan_baseline/Task 1：零基础玩转源大模型/web_demo_2b.py", line 57, in <module>
@@ -46,7 +48,7 @@ outputs = model.generate(inputs, do_sample=False, max_length=1024)
 
 这样就能跑通了。说得轻松其实改了老一阵。
 
-## 作业总结
+## 体验总结
 作为一个demo需要我多次debug才能跑通，说明这个demo的可用性还是有待提升的。体验不大好，至少该有个requirements.txt，或者一个一键安装脚本之类的。
 
 如果真的要用demo，不如直接API调用一个模型，省事很多。这个demo的复杂程度高不成低不就，有点难评。

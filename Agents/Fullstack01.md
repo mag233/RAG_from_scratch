@@ -55,7 +55,7 @@ outputs = model.generate(inputs, do_sample=False, max_length=1024)
 
 
 ## 作业总结
-作为一个demo需要我多次debug才能跑通，说明这个demo的可用性还是有待提升的。体验不大好，至少该有个requirements.txt，或者一个一键安装脚本之类的。本身bug可能是依赖升级造成的，但是作为一个公开的demo，作者应该定期维护一下，保证能跑通才对。
+作为一个demo需要我多次debug才能跑通，说明这个demo的可用性还是有待提升的。体验不大好，至少该有个requirements.txt，或者一个一键安装脚本之类的。
 
 如果真的要作为demo，不如直接API调用一个模型，省事很多。这个demo的复杂程度高不成低不就，有点难评。
 
